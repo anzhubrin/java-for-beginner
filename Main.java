@@ -8,6 +8,7 @@ public class Main {
         System.out.print("Enter first num: ");
         first = num.nextInt();
 
+
         if (first == 10) {
             System.out.print("Num is 10");
             System.out.print("/n");
