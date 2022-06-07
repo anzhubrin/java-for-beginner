@@ -3,11 +3,31 @@ import java.util.Scanner;
 public class Main {
     public static void main (String[] args) {
 
-        //byte num = 23; // -128 do 127
-        //float num_1 = 3.14f;
-        //boolean isTrue = true;
+        Scanner num = new Scanner(System.in);
+        int first;
+        System.out.print("Enter first num: ");
+        first = num.nextInt();
 
-        Scanner str = new Scanner(System.in);
-        System.out.println("Your string is: " + str.nextLine());
+        if (first == 10) {
+            System.out.print("Num is 10");
+            System.out.print("/n");
+        } else {
+            System.out.print("Num not 10");
+        }
+
+
+
+        /* 6 Занятие
+        Scanner num = new Scanner(System.in);
+
+        int first, second, result;
+        System.out.print("Enter first num: ");
+        first = num.nextInt();
+        System.out.print("Enter second num: ");
+        second = num.nextInt();
+
+        result = first + second;
+        System.out.print("Summa is: " + result); */
+
     }
 }
