@@ -3,10 +3,21 @@ import java.util.Scanner;
 public class Main {
     public static void main (String[] args) {
 
-        int[] mass = new int[] {12,23,43}; // Обьявление массива
-        System.out.println(mass[1]);
-        float[] arr = new float[] {12.3f,23.6f,43.6f}; // Обьявление массива
-        System.out.println(arr[1]);
+
+        //* 10 Занятие
+//        char [][] array = new char[3][3];
+//        array[0][0] = 'C';
+//        System.out.println(array[0][0]);
+
+
+
+        //* 9 Занятие
+//        int[] mass = new int[] {12,23,43}; // Обьявление массива
+//        System.out.println(mass[1]);
+//        float[] arr = new float[] {12.3f,23.6f,43.6f}; // Обьявление массива
+//        System.out.println(arr[1]);
+
+
 
 
         //* 8 Занятие
