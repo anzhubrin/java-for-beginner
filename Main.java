@@ -3,9 +3,23 @@ import java.util.Scanner;
 public class Main {
     public static void main (String[] args) {
 
+//        for (int i = 1 ; i <= 5; i++) {
+//            System.out.println(i);
+//        }
+
+//        int j = 0;
+//        while (j < 20) {
+//            j +=2; System.out.println(j); // Можно использовать break выход из цикла; пропустить continue;
+//        }
+
+//        int k = 1;
+//        do {
+//            System.out.println("Hello"); k++;
+//        } while (k <= 5);
 
 
-        /* 6 Занятие
+
+        /* 7 Занятие
         Scanner num = new Scanner(System.in);
         int first;
         int second;
